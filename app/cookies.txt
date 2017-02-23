@@ -1,0 +1,23 @@
+# HTTP Cookie File for domains related to facebook.com.
+# Downloaded with cookies.txt Chrome Extension (https://chrome.google.com/webstore/detail/njabckikapfpffapmjgojcnbfjonfjfg)
+# Example:  wget -x --load-cookies cookies.txt https://www.facebook.com/
+#
+m.facebook.com	FALSE	/groups	FALSE	0	m_pixel_ratio	1
+m.facebook.com	FALSE	/groups	FALSE	0	wd	1366x768
+m.facebook.com	FALSE	/reg	FALSE	0	m_pixel_ratio	1
+m.facebook.com	FALSE	/reg	FALSE	0	wd	1366x768
+.facebook.com	TRUE	/	FALSE	1550039231	_ga	GA1.2.622851000.1486967231
+.developers.facebook.com	TRUE	/	FALSE	1550423160	_ga	GA1.3.1570901910.1486387118
+.facebook.com	TRUE	/	TRUE	0	x-referer	eyJyIjoiL2hvbWUucGhwP3NvZnQ9Ym9va21hcmtzIiwiaCI6Ii9ob21lLnBocD9zb2Z0PWJvb2ttYXJrcyIsInMiOiJtIn0%3D
+.facebook.com	TRUE	/	FALSE	1488184870	locale	vi_VN
+.facebook.com	TRUE	/	FALSE	1550652357	datr	oU2bWNG-SR2eu-vNkzDlOsUB
+.facebook.com	TRUE	/	TRUE	1550652357	sb	Vk6bWHUkXiPZSI3aU139nkTb
+.facebook.com	TRUE	/	TRUE	1495356357	pl	n
+.facebook.com	TRUE	/	TRUE	1550652357	lu	gATFZtGIcjRJQmF-_APJ22PA
+.facebook.com	TRUE	/	FALSE	0	p	-2
+.facebook.com	TRUE	/	FALSE	0	act	1487583869537%2F45
+.facebook.com	TRUE	/	TRUE	1495359964	c_user	100005696525039
+.facebook.com	TRUE	/	TRUE	1495359964	xs	36%3AM2TtEpdBXdA7oQ%3A2%3A1487580360%3A11459
+.facebook.com	TRUE	/	FALSE	1495359964	fr	08h0oATHEszPGCqeK.AWW4XcPXOuGerWyCRqp-qc2x4L8.BYm02h.a_.AAA.0.0.BYqrrg.AWXolcmM
+.facebook.com	TRUE	/	FALSE	1495359964	csm	2
+.facebook.com	TRUE	/	TRUE	0	presence	EDvF3EtimeF1487584336EuserFA21B05696525039A2EstateFDsb2F1487583831590EatF1487584336715G487584336986Et3F_5bDiFA2user_3a1B03484570124A2ErF1EoF1EfF10C_5dElm3FA2user_3a1B03484570124A2Eutc3F1487581720081CEchFDp_5f1B05696525039F458CC
